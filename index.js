@@ -25,7 +25,3 @@ function backClick() {
         window.location.href = '/';
     }
 }
-
-console.log('getting last update')
-var date = new Date();
-$('#lastUpdate').html(`${ date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear().toString().slice(-2) }`)
