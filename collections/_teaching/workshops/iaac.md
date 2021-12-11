@@ -4,9 +4,10 @@ title: Internet as a City
 permalink: /iaac/
 img: /assets/img/dweb/blocks.jpg
 status: published
+date: 2018-08-01
 ---
 
-*Internet as a City* was a workshop that we (Foreign Objects) ran as part of the 2017 Decentralised Web Summit in San Francisco. In it, we used metaphors from architecture and urbanism to explore decentralisation, thinking about the use and misuse of rules and spaces, and decision making about networks. The workshop was developed -- in part -- as a response to what we saw at the time as being an extremely 'modernist' and rigid approach to protocol and governance in certain parts of the decentralised web community; the idea that somehow you could define a set of rules that would absolutely goven peoples' behavior towards a space, platform or resource.
+*Internet as a City* was a workshop that we (Foreign Objects) ran as part of the 2018 Decentralised Web Summit in San Francisco. In it, we used metaphors from architecture and urbanism to explore decentralisation, thinking about the use and misuse of rules and spaces, and decision making about networks. The workshop was developed -- in part -- as a response to what we saw at the time as being an extremely 'modernist' and rigid approach to protocol and governance in certain parts of the decentralised web community; the idea that somehow you could define a set of rules that would absolutely goven peoples' behavior towards a space, platform or resource.
 
 <img src="/assets/img/dweb/whole_room.jpg" width="70%" />
 

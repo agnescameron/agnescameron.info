@@ -4,6 +4,7 @@ title: Inflatables Workshops
 permalink: /inflatables/
 status: published
 img: /assets/img/inflatables/dome.png
+date: 2021-11-03
 ---
 
 Since Summer 2018, myself (+ sometimes [Gary](https://zhexi.info)) have taught workshops on making inflatables, which have covered a variety of scales, techniques and settings. Some of our students have gone on to make some very large things indeed, and generally they've been a huge amount of fun.

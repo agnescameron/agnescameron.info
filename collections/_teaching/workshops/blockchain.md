@@ -4,7 +4,7 @@ title: How To Blockchain Almost Anything
 permalink: /blockchain/
 img: /assets/img/blockchain/lambo.jpg
 status: published
-date: 06/08/2018
+date: 2018-08-06
 ---
 
 <img src="/assets/img/blockchain/website-screenshot.png" width="70%" />

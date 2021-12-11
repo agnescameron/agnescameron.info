@@ -9,7 +9,9 @@ permalink: /teaching
 
 <p>I currently (co)convene 2 reading groups. If you're interested in joining either, <a href="mailto:agnescam@mit.edu">send me a note</a></p>
 
-{% for project in site.teaching  %}
+{% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+
+{% for project in sorted_teaching  %}
 	{% if project.path contains 'reading' %}
 		<a href="{{ project.url }}">{{ project.title }} → </a><br>
 	{% endif %}
@@ -18,7 +20,7 @@ permalink: /teaching
 
 <h2>Classes</h2>
 
-{% for project in site.teaching %}
+{% for project in sorted_teaching %}
 	{% if project.path contains 'classes' %}
 		<a href="{{ project.url }}">{{ project.title }} → </a><br>
 	{% endif %}
@@ -27,7 +29,7 @@ permalink: /teaching
 
 <h2>Workshops</h2>
 
-{% for project in site.teaching %}
+{% for project in sorted_teaching %}
 	{% if project.path contains 'workshops' %}
 		{% if project.status == 'published' %}
 			<a onmouseenter="showPostImage('{{ project.img }}')" onmouseleave="hidePostImage()" href="{{ project.url }}">{{ project.title }} → </a><br>

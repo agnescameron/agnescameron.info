@@ -5,6 +5,7 @@ permalink: /botchat/
 img: /assets/img/botchat/being_bot.JPG
 as: Foreign Objects
 status: published
+date: 2019-10-20
 ---
 
 *Bot Chat* was a workshop that we (Foreign Objects) ran as an accompaniment to the [*Bot or Not*](https://www.foreignobjects.net/bot-or-not) project for the Mozilla Creative Media Awards. Because of COVID, we were only able to run it twice: once for our cohort at New INC, and another time at Rutgers University, by invitation of Mindy Seu.
