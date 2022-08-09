@@ -24,9 +24,25 @@ main {
 }
 
 #news img {
+    margin-top: 10px;
     width: 50%;
 }
 
 .center {
 	margin-left: 580px;
+}
+
+
+@media screen and (max-width: 980px) {
+    body {
+        font-size: 2em;
+        line-height: 1.2em;
+    }
+
+    main {
+        max-width: 85%;
+        margin: 5%;
+        margin-top: 80px;
+    }
+
 }
