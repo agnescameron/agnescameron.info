@@ -1,8 +1,8 @@
 $.get('https://soup.agnescameron.info/feed.xml', function (data) {
-    $(data).find("item").each(function () {
+    $(data).find("item").each(function (index) {
         var post = $(this);
         let date = new Date(post.find("pubDate").text());
-        $('#blog').append(
+        index < 5 && $('#blog').append(
         	`<a href="${post.find("link").text()}">${ (date.getMonth() + 1) + "/" + date.getFullYear().toString().slice(-2)}: ${post.find("title").text()} →</a> <br>`
         )
     });
