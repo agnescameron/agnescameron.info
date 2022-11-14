@@ -3,6 +3,7 @@ layout: page
 title: CATRG
 permalink: /CATRG/
 status: published
+running: on hiatus
 date: 08/01/21
 ---
 

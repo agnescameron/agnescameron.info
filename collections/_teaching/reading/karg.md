@@ -3,6 +3,7 @@ layout: page
 title: KARG
 permalink: /karg/
 status: published
+running: current
 date: 11/06/21
 ---
 

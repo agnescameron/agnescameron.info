@@ -3,6 +3,7 @@ layout: page
 title: Agrarianism and Revolution Reading Group
 permalink: /ARRG/
 status: published
+running: current
 date: 14/11/22
 ---
 
