@@ -7,7 +7,7 @@ running: on hiatus
 date: 08/01/21
 ---
 
-*CATRG* (Category Theory Reading Group) is a group of non-mathematicians slowly working their way through the book [*Seven Sketches In Compositionality*](), by David Spivak and Brendan Fong.
+*CATRG* (Category Theory Reading Group) is a group of non-mathematicians slowly working their way through the book [*Seven Sketches In Compositionality*](https://arxiv.org/abs/1803.05316), by Brendan Fong and David Spivak.
 
 We maintain an [are.na channel](https://www.are.na/agnes-cameron/catrg) of related resources, a [Miro Board](https://miro.com/app/board/o9J_lYHZnX4=/) of collaborative notes, and have an intention to migrate our learnings to expand the English-language Simple Wikipedia resources on category theory and related topics.
 

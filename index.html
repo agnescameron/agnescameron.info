@@ -13,11 +13,12 @@ This website was last updated on {{ site.time | date: '%d/%m/%y' }}
 <a href="http://soup.agnescameron.info">[ ... ]</a>
 
 <h2><a href="/work">Recent Work →</a></h2>
-{% for project in site.projects limit:5 %}
-	{% if project.status == 'published' %}
-		<a href="{{ project.url }}">{{ project.title }} → </a><br>
-	{% endif %}
-{% endfor %}
+	{% assign projects = site.projects | sort: date | reverse %}
+	{% for project in projects limit:5 %}
+		{% if project.status == 'published' %}
+			<a href="{{ project.url }}">{{ project.title }} → </a><br>
+		{% endif %}
+	{% endfor %}
 <a href="/work">[ ... ]</a>
 
 <h2><a href="/news">News →</a></h2>
@@ -31,4 +32,4 @@ This website was last updated on {{ site.time | date: '%d/%m/%y' }}
 
 <h2><a href="/teaching">Teaching + Learning →</a></h2>
 <h2><a href="https://library.agnescameron.info">Library →</a></h2>
-<h2><a href="/archive">Work Archive →</a></h2>
+<h2><a href="/archive">Archive →</a></h2>
