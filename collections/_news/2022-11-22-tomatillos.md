@@ -1,8 +1,8 @@
 ---
 layout: snippet
-title: farming updates
+title: Farming Updates
 ---
 
-Check out this year's tomatillo harvest (I am v proud)
+Check out this year's tomatillo harvest
 
 ![](/assets/img/agriculture/tomatillos.png)
