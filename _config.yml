@@ -34,6 +34,8 @@ collections_dir: collections
 collections:
   archive:
     output: true
+  writing:
+    output: true
   projects:
     output: true
     order:
