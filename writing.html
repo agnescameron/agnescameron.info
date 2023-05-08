@@ -1,0 +1,14 @@
+---
+layout: main
+title: Writing
+permalink: /writing
+---
+<h1>writing (secret)</h1>
+
+<p>I like websites with secret pages this is one of them. if you found this page by yourself.... cool! many of these were written in ~30min on a sunday afternoon with my friend devora.</p>
+
+<div id="writing">
+	{% for post in site.writing reversed %}
+		{{ post.date | date: "%d/%m/%Y" }} // <a href="{{ post.url }}"><b>{{ post.title }}</b></a><br>
+	{% endfor %}
+</div>
