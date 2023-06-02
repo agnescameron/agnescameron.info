@@ -6,7 +6,7 @@ status: published
 img: /assets/img/bauhaus/sticks_1.JPG
 ---
 
-For Harvard GSD's 100-year celebration of the Bauhaus, I was part of a project to reconstruct and re-imagine Oskar Schlemmer's dances, in a class taught by Kryzstof Wodickzko and Ani Liu. I reconstructed his *Stick Dance*, and spent the best part of 2 months wandering around Boston with a load of wooden dowels taped to various parts of my body.
+For Harvard GSD's [100-year celebration of the Bauhaus](https://www.gsd.harvard.edu/event/space-movement-and-the-technological-body-a-tribute-to-the-bauhaus/), I was part of a project to reconstruct and re-imagine Oskar Schlemmer's dances, in a class taught by  Krzysztof Wodiczko and Ani Liu. I reconstructed his *Stick Dance*, and spent the best part of 2 months wandering around Boston with a load of wooden dowels taped to various parts of my body.
 
 <img src="/assets/img/bauhaus/sticks_1.JPG" width="70%" />
 <img src="/assets/img/bauhaus/sticks_laptop.jpg" width="70%" />
