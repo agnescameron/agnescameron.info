@@ -17,6 +17,23 @@
     "url": "https://library.agnescameron.info"
   },
 
+
+  {
+    "title": "frying",
+    "url": "https://backseatfrying.net"
+  },
+
+  {
+    "title": "wip",
+    "url": "https://www.are.na/agnes-cameron/img-wip"
+  },
+
+  {
+    "title": "blog",
+    "url": "https://soup.agnescameron.info/"
+  },
+
+
   {% for page in site.archive %}
     {% if page.status == "published" %}
       {
