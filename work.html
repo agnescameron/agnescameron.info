@@ -11,7 +11,7 @@ permalink: /work
 <section>
 {% assign projects = site.projects | sort: date | reverse %}
 {% for project in projects %}
-	{% if  project.status == 'published' %}
+	{% if project.status == 'published' %}
 		<a onmouseenter="showPostImage('{{ project.img }}')" onmouseleave="hidePostImage()" href="{{ project.url }}">{{ project.title }} → </a><br>
 	{% endif %}
 {% endfor %}

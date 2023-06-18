@@ -17,6 +17,13 @@ function hidePostImage() {
     $('#imageContainer').css({display: 'none'})
 }
 
+function lucky() {
+    $.get('/lucky.json', function (data) {
+        const choice = data[Math.floor(Math.random() * data.length)]
+        window.location.href = choice.url
+    });
+}
+
 function backClick() {
     if(document.referrer.indexOf('agnescameron.info') >= 0) {
         history.go(-1);

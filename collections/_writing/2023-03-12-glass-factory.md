@@ -1,6 +1,8 @@
 ---
 layout: page
 title: in the glass factory
+status: published
+permalink: /glass-factory/
 ---
 
 At the inspection line \

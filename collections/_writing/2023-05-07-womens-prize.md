@@ -1,6 +1,8 @@
 ---
 layout: page
 title: women's prize for writing
+status: published
+permalink: /womens-prize/
 ---
 
 love poem / \

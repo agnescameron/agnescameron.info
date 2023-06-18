@@ -1,6 +1,8 @@
 ---
 layout: page
 title: oil well
+status: published
+permalink: /oil-well/
 ---
 
 It was a few weeks after I’d moved to Basra that the visions started in earnest. Initially I would get them while working. I would notice a strange, slippery feeling and a shimmering at the edge of my vision as reality started to fray. I was unsettled by them.

@@ -1,0 +1,52 @@
+---
+---
+[
+
+  {
+    "title": "webring",
+    "url": "/webring"
+  },
+
+  {
+    "title": "quotes",
+    "url": "/quotes"
+  },
+
+  {
+    "title": "library",
+    "url": "https://library.agnescameron.info"
+  },
+
+  {% for page in site.archive %}
+    {% if page.status == "published" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.permalink }}"
+      },
+    {% endif %}
+  {% endfor %}
+  {% for page in site.teaching %}
+    {% if page.status == "published" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.permalink }}"
+      },
+    {% endif %}
+  {% endfor %}
+  {% for page in site.writing %}
+    {% if page.status == "published" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.permalink }}"
+      },
+    {% endif %}
+  {% endfor %}
+  {% for page in site.projects %}
+    {% if page.status == "published" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.permalink }}"
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+]

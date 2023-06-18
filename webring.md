@@ -12,7 +12,6 @@ status: published
 * [CSS](https://coombs-schwulst-seu.com/)
 * [Dan Taeyoung](http://dantaeyoung.com/)
 * [Donny Winston](https://donnywinston.com/)
-* [Gary Zhexi Zhang](https://zhexi.info/)
 * [George Kan](https://georgekan.art/)
 * [Jaza Syed](http://jaza.xyz/)
 * [Jonathan Gray](https://jonathangray.org/)
