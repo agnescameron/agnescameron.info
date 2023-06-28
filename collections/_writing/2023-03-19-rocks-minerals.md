@@ -34,4 +34,4 @@ On my last day I drove out of the compound by myself to the very center of the f
 On the flight home I clutched a letter from my wife very tightly.
 
 
-*authors note: this is a big ripoff of the film Wax or the Discovery of Television Amongst the Bees*
+*NB this is a big ripoff of the film Wax or the Discovery of Television Amongst the Bees*
