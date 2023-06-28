@@ -16,10 +16,10 @@ you will wade knee deep into the pool \
 you will scrape the bottom with your bare feet, feeling for something \
 you will know better, surely \
 you will be familiar with the Microsoft Office Suite \
-you will arrive each morning and leave every evening at which point a tangible stillness descends on the household \
+you will arrive each morning and leave every evening at which point a tangible stillness descends on the household
 
 the air will crackle with the smell of cordite \
 a black void, very far away \
-a whooshing sound \
+a whooshing sound
 
 you will have experience in such matters
