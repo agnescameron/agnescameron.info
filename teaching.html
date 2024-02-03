@@ -22,7 +22,9 @@ permalink: /teaching
 
 {% for project in sorted_teaching %}
 	{% if project.path contains 'classes' %}
-		<a href="{{ project.url }}">{{ project.title }} → </a><br>
+		{% if project.status == 'published' %}
+			<a href="{{ project.url }}">{{ project.title }} → </a><br>
+		{% endif %}
 	{% endif %}
 {% endfor %}
 
