@@ -13,11 +13,15 @@ As of February 2024, I've run this workshop officially twice -- once by invitati
 
 I wrote a guide to making your own version on the [CCI wiki](https://wiki.cci.arts.ac.uk/books/physical-computing/page/workshop-knitted-synthesisers).
 
-<img width="477" alt="Screenshot 2023-04-28 at 17 21 43" src="https://user-images.githubusercontent.com/16444898/235201734-fe2c7972-43b5-4544-b558-1bdcf848f4ea.png">
+<img width="477" alt="agnes with a synth" src="https://user-images.githubusercontent.com/16444898/235201734-fe2c7972-43b5-4544-b558-1bdcf848f4ea.png">
 
 Testing a stripboard version in the lab with Val and Lexin:
 <video controls="controls" width="70%"
        name="sample 1" src="/assets/img/knit/IMG_0254.mov"></video>
+
+The stripboard prototype:
+
+<img width="400" alt="stripboarded circuit" src="/assets/img/knit/IMG_0259.jpg">
 
 With a breadboarded version, using a sample made by the Chelsea knit students:
 <video controls="controls" width="70%"
