@@ -51,6 +51,8 @@ collections:
     output: true
   teaching:
     output: true
+  snacks:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
