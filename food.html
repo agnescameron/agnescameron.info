@@ -8,7 +8,7 @@ permalink: /food
 <p>micro snack blog, you must use imagination</p>
 
 <div id="news">
-	{% for post in site.food reversed %}
+	{% for post in site.snacks reversed %}
 		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
 	{% endfor %}
 </div>
