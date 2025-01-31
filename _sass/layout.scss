@@ -52,15 +52,27 @@ footer {
 
 
 @media screen and (max-width: 600px) {
-    body {
-        font-size: 2em;
-        line-height: 1.2em;
-    }
 
     main {
         max-width: 90%;
         margin: 3%;
-        margin-top: 80px;
+        margin-top: 10px;
+    }
+
+    #news img {
+        width: 100%;
+    }
+
+    #imageContainer {
+        position: fixed;
+        width: 80vw;
+        max-height: 80vh;
+        top: 100px;
+        left: 30px;
+    }
+
+    #imageContainer img {
+        width: 100%;
     }
 
 }
