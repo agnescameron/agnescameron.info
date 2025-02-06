@@ -1,0 +1,132 @@
+
+
+body {
+font-family: monospace;
+background-image: url('dark_space.jpeg'); 
+}
+
+
+img{
+        max-width: 100%;
+    height: auto;
+}
+
+.contactimg{
+margin: auto;
+padding-left: 400px;
+width: 700px;
+    
+}
+
+.box {
+width: 350px;
+height: 200px;
+float: left;
+overflow: scroll;
+}
+
+.lola{
+align-items: center;
+width: 100%;
+position: fixed;
+bottom: 0;
+
+}
+
+.back{
+float:left;
+width: 100%;
+padding-top:"20px";
+position: relative;
+}
+
+.title{
+padding-left: calc(100%/10);
+    width: 80%;
+
+}
+
+.clickers_wrap
+{
+  padding-left: calc(100%/9.6);
+    width: 80%;  
+}
+
+
+.clicker
+{
+   float: left;
+   padding-right: 10px;
+   padding-top:20px;
+   width: 230px;
+}
+
+
+.clicker2
+{
+   float: left;
+   width: 220px;
+  padding-top: 100px;
+    
+}
+
+
+.image{
+margin: auto;
+width:50%;
+}
+
+
+.subpageimage{
+margin: auto;
+padding-left: 700px;
+width: 400px;
+}
+
+.text{
+width: 500px;
+height: 500px; 
+font-size:13pt;
+padding-left:50px;
+padding-right:50px;
+}
+
+.textabout{
+width: 700px;
+font-size:11pt;
+padding-left:50px;
+padding-right:50px;
+}
+
+
+.linksabout{
+ position:relative; /* <- important bit here */
+ z-index:1; /* <- important bit here */
+ width: 550px;
+float: left;
+font-size: 11pt;
+color:white;
+padding-left:50px;
+padding-right:50px;
+    
+    
+}
+
+
+.links{
+ position:relative; /* <- important bit here */
+ z-index:1; /* <- important bit here */
+ width: 400px;
+float: left;
+font-size: 13pt;
+color:white;
+padding-left:50px;
+padding-right:50px;
+    
+    
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
