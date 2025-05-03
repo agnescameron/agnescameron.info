@@ -37,7 +37,7 @@ Opera directed by William Ashford, for Cambridge University Opera Society. The c
 
 ## Eugene Onegin, 2016
 
-Tchaikovsky opera directed by Robert Hawkins, for Cambridge University Opera Society. It was set in 1920's russia: the costumes drew inspiration from the paintings of rodckenko, malevich and stepanova, and the ballet *Victory over the Sun*. I worked with Alice Brightman, India Ayles and Amy Murgatroyd.
+Tchaikovsky opera directed by Robert Hawkins, for Cambridge University Opera Society. It was set in 1920's russia: the costumes drew inspiration from the paintings of Rodckenko, Malevich and Stepanova, and the ballet *Victory over the Sun*. I worked with Alice Brightman, India Ayles and Amy Murgatroyd.
 
 <img src="/assets/img/costume/onegin_2.jpg" width="70%" />
 <img src="/assets/img/costume/onegin_4.jpg" width="70%" />
@@ -59,7 +59,7 @@ I worked with Eleanor Warr, Alice Brightman and Ellie Beveridge to make the (40+
 
 ## The Strip, 2014
 
-Play by phyllis nagy, directed by George Kan. Set in a semi-abstract las vegas. Staged at the ADC theatre in February 2014
+Play by Phyllis Nagy, directed by George Kan. Set in a semi-abstract Las Vegas. Staged at the ADC theatre in February 2014
 
 <img src="/assets/img/costume/strip_joe.jpg" width="40%" />
 <img src="/assets/img/costume/strip_hannah.png" width="70%" />
@@ -67,7 +67,6 @@ Play by phyllis nagy, directed by George Kan. Set in a semi-abstract las vegas. 
 ## Richard III, 2013
 
 Modern staging of the shakespeare play with the European Touring Group, directed by Gareth Mattey.
-
 
 <img src="/assets/img/costume/kassi_richard.png" width="40%" />
 <img src="/assets/img/costume/sam_richard.png" width="40%" />
