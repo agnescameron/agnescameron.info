@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Agnes Cameron
-email: your-email@example.com
+title: agnes cameron
 description: >- # this means to ignore newlines until "baseurl:"
-  Agnes Cameron's website.
+  website of agnes cameron :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -50,6 +49,8 @@ collections:
   news:
     output: true
   teaching:
+    output: true
+  snacks:
     output: true
 
 # Exclude from processing.

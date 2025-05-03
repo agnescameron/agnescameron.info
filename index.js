@@ -17,6 +17,15 @@ function hidePostImage() {
     $('#imageContainer').css({display: 'none'})
 }
 
+function showTechSupport() {
+    var source_pos = event.target.getBoundingClientRect();
+    $('#tech-support-bubble').css({display: 'block', left: source_pos.x + 50, top: source_pos.y + 20});
+}
+
+function hideTechSupport() {
+    $('#tech-support-bubble').css({display: 'none'});
+}
+
 function lucky() {
     $.get('/lucky.json', function (data) {
         const choice = data[Math.floor(Math.random() * data.length)]

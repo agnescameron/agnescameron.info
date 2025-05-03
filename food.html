@@ -1,0 +1,14 @@
+---
+layout: main
+title: food
+permalink: /food
+---
+<h1>food</h1>
+
+<p>micro snack blog, <strike>no</strike> minimal pics, you must use imagination</p>
+
+<div id="news">
+	{% for post in site.snacks reversed %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endfor %}
+</div>

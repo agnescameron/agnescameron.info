@@ -4,7 +4,7 @@ title: Agrarianism and Revolution Reading Group
 permalink: /ARRG/
 status: published
 img: /assets/img/arrg/arrg.png
-running: on hiatus
+running: ended
 date: 14/11/22
 ---
 
