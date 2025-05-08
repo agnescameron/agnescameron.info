@@ -16,11 +16,11 @@ When we thought about performing Peter and the Wolf, Kat and I knew we would hav
 
 We adapted the score from a Musescore transcription (thankyou Joseph Violin!), and as well as the new ending (original new work by Kat!), we cut and changed other parts. The hedgehog itself features early in the piece, and the chase scene (video below!) is followed by a 'storm' that we cut together from other parts of the piece.
 
-<img src="/assets/img/pwh/chase.mp4" width="100%" />
+<video width="320" controls><source src="/assets/img/pwh/chase.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 Kat also wrote a graphical score for the hedgehog player, PCO cellist Nathan Campbell-Adams. Other instrumental additions included another cellist (Clare Taylor) with a recycled-paper-scrunching solo, playing the role of 'nesting birds'.
 
-<img src="/assets/img/pwh/kat-scan.png" width="100%" />
+<img src="/assets/img/pwh/kat-scan.jpg" width="100%" />
 
 It was my first time ever conducting, and quite honestly one of the more challenging things I've ever tried to do. We were both quite humbled by the work and detail that goes into orchestral arrangement and rehearsal, something I've only ever experienced as an instrumentalist. It was also extremely fun, and something I'd definitely do again.
 
