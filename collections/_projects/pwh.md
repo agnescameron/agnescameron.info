@@ -8,7 +8,7 @@ as: Agnes Cameron, Kat MacDonald, Peckham Chamber Orchestra
 date: 2025-04-16
 ---
 
-Kat and I reworked Prokofiev's Peter and the Wolf for the Peckham Chamber Orchestra (PCO), which we performed in April 2025. The idea had come about a couple of months prior -- a way to integrate the More Roar synth sound (which, as an FM synth, has a rich woodwind-like quality) into an orchestral piece.
+[Kat](https://otherkat.com/) and I reworked Prokofiev's Peter and the Wolf for the [Peckham Chamber Orchestra](https://peckhamchamberorchestra.co.uk/) (PCO), which we performed in April 2025. The idea had come about a couple of months prior -- a way to integrate the [MORE ROAR](/more-roar) synth sound (which, as an FM synth, has a rich woodwind-like quality) into an orchestral piece.
 
 PCO is a community orchestra, and I've played oboe with them for a year this spring. It has a fairly unique non-hierarchical structure, and orchestra members can volunteer to conduct the orchestra in rotation.
 
@@ -24,4 +24,4 @@ Kat also wrote a graphical score for the hedgehog player, PCO cellist Nathan Cam
 
 It was my first time ever conducting, and quite honestly one of the more challenging things I've ever tried to do. We were both quite humbled by the work and detail that goes into orchestral arrangement and rehearsal, something I've only ever experienced as an instrumentalist. It was also extremely fun, and something I'd definitely do again.
 
-<img src="/assets/img/pwh/conducting-iii.jpeg" width="100%" />
+<img src="/assets/img/pwh/conducting-iii.jpeg" width="70%" />
