@@ -12,10 +12,10 @@ $.get('https://soup.agnescameron.info/feed.xml', function (data) {
 
 function moreAbout() {
     about++;
-    if(about == 3) {
+    if(about == 4) {
         $('#extra-clicker').css({display: 'none'});
     }
-    $('#extra' + about).css({display: 'block'});
+    $('#extra' + about).css({display: 'inline'});
 }
 
 function showPostImage(post) {
