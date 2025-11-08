@@ -1,3 +1,5 @@
+var about = 0;
+
 $.get('https://soup.agnescameron.info/feed.xml', function (data) {
     $(data).find("item").each(function (index) {
         var post = $(this);
@@ -7,6 +9,14 @@ $.get('https://soup.agnescameron.info/feed.xml', function (data) {
         )
     });
 });
+
+function moreAbout() {
+    about++;
+    if(about == 3) {
+        $('#extra-clicker').css({display: 'none'});
+    }
+    $('#extra' + about).css({display: 'block'});
+}
 
 function showPostImage(post) {
     $('#imageContainer').html("<img src='" + post + "'>");
