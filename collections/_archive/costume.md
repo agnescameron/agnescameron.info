@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Costume
+title: theatre costume
 permalink: /costume/
 status: published
 img: /assets/img/costume/msnd_james.jpg

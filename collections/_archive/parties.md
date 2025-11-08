@@ -2,7 +2,8 @@
 layout: page
 title: costumes I made for parties
 permalink: /parties/
-status: draft
+status: published
+img: /assets/img/parties/beast-1.png
 ---
 
 As well as making [theatre costumes](/costume), I have a large archive of different costumes and installations made for parties. I've got particularly interested in larger sculptural forms in the past couple of years -- I keep an [are.na channel](https://www.are.na/agnes-cameron/sew-blob-costume) of costumes that I find inspiring.
@@ -54,7 +55,7 @@ For this I made a simple A-line dress, onto which I stitched laurel leaves from 
 
 ### nudibranch, winter 2019
 
-This costume was heavily inspired by Sandra Leonard's soft sculpture costumes for children. It was made quite quickly, and without stuffing for the spines!
+This costume was heavily inspired by [Sandra Leonard's](http://www.sandraleonard.com) soft sculpture costumes for children. It was made quite quickly, and without stuffing for the spines!
 
 <img src="/assets/img/parties/nudibranch.png" width="300px" />
 
