@@ -28,12 +28,15 @@ function hidePostImage() {
 }
 
 function showTechSupport() {
-    var source_pos = event.target.getBoundingClientRect();
-    $('#tech-support-bubble').css({display: 'block', left: source_pos.x + 50, top: source_pos.y + 20});
+    // var source_pos = event.target.getBoundingClientRect();
+    // $('#tech-support-bubble').css({display: 'block', left: source_pos.x + 50, top: source_pos.y + 20});
+    $('#tech-support-clicker').css({display: 'none'})
+    $('#tech-support').css({display: 'inline'})
 }
 
 function hideTechSupport() {
-    $('#tech-support-bubble').css({display: 'none'});
+        $('#tech-support-clicker').css({display: 'inline'})
+    $('#tech-support').css({display: 'none'})
 }
 
 function lucky() {
