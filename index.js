@@ -1,4 +1,5 @@
 var about = 0;
+const self_imgs = ["cat-small.png", "thinkpad-small.png", "inflatable-small.png"]
 
 $.get('https://soup.agnescameron.info/feed.xml', function (data) {
     $(data).find("item").each(function (index) {
@@ -14,8 +15,30 @@ function moreAbout() {
     about++;
     if(about == 4) {
         $('#extra-clicker').css({display: 'none'});
+        $('#extra-closer').css({display: 'inline'});
     }
     $('#extra' + about).css({display: 'inline'});
+}
+
+function closeAbout() {
+    about = 0;
+    $('#extra-closer').css({display: 'none'});
+    $('#extra-clicker').css({display: 'inline'});
+    $('.extra').css({display: 'none'});
+}
+
+function showMainImage() {
+    let img = self_imgs[Math.floor(Math.random() * self_imgs.length)];
+    $('#main-img').html("<img src='/assets/img/main/" + img + "'>");
+    $('#main-img').css({display: 'block'})
+    $('#show-img').css({display: 'none'})
+    $('#close-img').css({display: 'inline'})
+}
+
+function hideMainImage() {
+    $('#main-img').css({display: 'none'})
+    $('#show-img').css({display: 'inline'})
+    $('#close-img').css({display: 'none'})
 }
 
 function showPostImage(post) {

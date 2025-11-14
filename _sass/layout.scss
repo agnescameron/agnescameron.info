@@ -20,12 +20,16 @@ video {
     margin-bottom: 20px;
 }
 
-.extra {
+.extra, #extra-closer, #tech-support, #close-img, #main-img {
     display: none;
 }
 
-#tech-support {
-    display: none;
+#main-img {
+    width: 150px;
+}
+
+#main-img img {
+    width: 100%;
 }
 
 #news p {

@@ -1,4 +1,6 @@
-<p>Hi, I'm Agnes <a onmouseenter="showPostImage('/assets/img/main/cat.png')" onmouseleave="hidePostImage()" ontouchstart="showPostImage('/assets/img/main/cat.png')" ontouchend="hidePostImage()" href="#" style="text-decoration: none; color: black;">↝</a></p>
+<p>Hi, I'm Agnes <a id="show-img" onclick="showMainImage()" href="javascript:void(0);">↝</a><a id="close-img" onclick="hideMainImage()" href="javascript:void(0);">↜</a></p>
+
+<div id="main-img"></div>
 
 <p>I design, build and maintain software and hardware, sometimes alone but often with <a href="/webring">friends</a>. I have a specific interest in collective knowledge and infrastructural systems. At present, these interests are directed toward research work with <a href="/bellingcat">satellite imagery</a>, open-source manufacturing <a href="https://soup.agnescameron.info/2025/09/20/kniterate.html">software</a>, the development of <a href="/temporal-landscape">archives</a>, and <a href="https://soup.agnescameron.info//2025/01/05/synths.html">new sonic hardware.</a></p>
 
@@ -9,9 +11,10 @@
 
 <span class="extra" id="extra3">I was a founding member of the research studio <a href="https://www.foreignobjects.net/">Foreign Objects</a>, and often collaborate with the game designers <a href="https://movingcastles.world/">Moving Castles</a>.</span> 
 
-<span class="extra" id="extra4">I play oboe with the <a href="https://peckhamchamberorchestra.co.uk/">Peckham Chamber Orchestra</a>, edit Wikipedia under the alias <a href="https://en.wikipedia.org/wiki/User:Petsquirrel">petsquirrel</a>, and like to make elaborate <a href="parties">costumes</a> for parties. </span>
+<span class="extra" id="extra4">I play oboe with the <a href="https://peckhamchamberorchestra.co.uk/">Peckham Chamber Orchestra</a>, edit Wikipedia under the alias <a href="https://en.wikipedia.org/wiki/User:Petsquirrel">petsquirrel</a>, and have a strong interest in <a href="parties">costume design</a>. </span>
 
-<span><a id="extra-clicker" onclick="moreAbout()" href="#">[...]</a></span>
+<span><a id="extra-closer" onclick="closeAbout()" href="javascript:void(0);">[x]</a></span>
+<span><a id="extra-clicker" onclick="moreAbout()" href="javascript:void(0);">[...]</a></span>
 </p>
 
-<p>If you are an activist group or community organisation looking for technical support or advice <a id="tech-support-clicker" onclick="showTechSupport()" href="#">*</a><a id="tech-support" onclick="hideTechSupport()" text-decoration="none" href="#">(this has included things like satellite imaging, web/server advice and making inflatables),</a> I'm normally happy to volunteer my time. I am particularly interested to contribute to demilitarisation and arms conversion initiatives within the tech industry. You can get in touch with me at: agnesfcameron at protonmail dot com.</p>
+<p>If you are an activist group or community organisation looking for technical support or advice<a id="tech-support-clicker" onclick="showTechSupport()" href="javascript:void(0);">*</a><span id="tech-support"> (<a onclick="hideTechSupport()" text-decoration="none" href="javascript:void(0);">this has included things like satellite imaging, web/server advice and making inflatables</a>)</span>, I'm normally happy to volunteer my time. I am particularly interested to contribute to demilitarisation and arms conversion initiatives within the tech industry. You can get in touch with me at: agnesfcameron at protonmail dot com.</p>
