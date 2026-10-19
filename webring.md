@@ -5,7 +5,7 @@ permalink: /webring/
 status: published
 ---
 
-* [Adam Haar Horowitz](http://www.adamjhh.com/blog)
+* [Adam Haar Horowitz](http://www.adamjhh.com)
 * [are.na](https://www.are.na/)
 * [Arthur Röing Baer](https://twitter.com/arthurroingbaer)
 * [Austin Wade Smith](http://www.austinwadesmith.com/)
@@ -19,6 +19,7 @@ status: published
 * [Dirty Electronics](https://dirtyelectronics.org/)
 * [Donny Winston](https://donnywinston.com/)
 * [Federico Pérez Villoro](https://federicoperezvilloro.com/)
+* [Gershon Dublon](https://ger.sh)
 * [George Kan](https://georgekan.art/)
 * [Hannah Calascione](https://hannahcalascione.com/)
 * [Innovation Information Initiative](https://iii.pubpub.org/)
@@ -39,6 +40,7 @@ status: published
 * [Moving Castles](https://movingcastles.world/)
 * [Murad Khan](https://www.muradkhan.co.uk/)
 * [Naive Yearly](https://naiveyearly.com/)
+* [Nicole L'Huillier](https://nicolelhuillier.com/info/)
 * [Omar Rizwan](https://omar.website/)
 * [Owen Trueblood](https://owentrueblood.com/)
 * [Peckham Digital](https://peckhamdigital.org/)
@@ -52,5 +54,6 @@ status: published
 * [Trust](https://trust.support/)
 * [Usman Haque](https://haque.co.uk/)
 * [Wastepaper Opera](https://wastepaperopera.net/)
+* [Xin Liu](https://xinliu.art/)
 * [Zach Jama](https://zachjama.com/)
 
